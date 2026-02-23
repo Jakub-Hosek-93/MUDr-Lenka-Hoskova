@@ -154,8 +154,9 @@ html {
     border: none;
 }
 
-.btn a {
+.btn-first {
     font-size: 20px;
+    cursor: pointer;
     text-decoration: none;
     color: #fff;
 }
@@ -176,8 +177,9 @@ html {
     border: none;
 }
 
-.btn-secondary a {
+.btn-secondary {
     font-size: 20px;
+    cursor: pointer;
     text-decoration: none;
     color: #000000;
 }
