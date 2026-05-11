@@ -499,6 +499,11 @@ html {
     font-size: 18px;
 }
 
+.contact-text p span {
+    color: black;
+    font-weight: 600;
+}
+
 .contact-map {
     flex: 1.5;
     min-width: 300px;
