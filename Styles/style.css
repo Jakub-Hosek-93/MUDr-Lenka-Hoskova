@@ -241,10 +241,16 @@ html {
 
 .actualities-section h2 {
     color: rgba(255, 15, 15, 0.87);
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-size: 40px;
     font-weight: 700;
     text-align: center;
+}
+
+.actualities-section h3 {
+    color: #394669;
+    font-size: 22px;
+    margin-bottom: 15px;
 }
 
 /* SERVICES */
@@ -476,7 +482,6 @@ html {
     background: #ffffff;
     padding: 50px;
     border-radius: 20px;
-    box-shadow: 0 4px 15px rgba(54, 70, 93, 0.04);
 }
 
 .contact-text {
@@ -659,16 +664,13 @@ html {
         font-size: 28px;
     }
 
-    .actualities-section {
-
-    }
-
     .actualities-section h2 {
         font-size: 28px;
     }
 
     .actualities-section h3 {
         font-size: 16px;
+
     }
 
     .abt-item {
