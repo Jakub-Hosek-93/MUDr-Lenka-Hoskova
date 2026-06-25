@@ -253,6 +253,15 @@ html {
     margin-bottom: 15px;
 }
 
+.actualities-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+}
+
 /* SERVICES */
 .services-list {
     display: grid;
@@ -664,6 +673,12 @@ html {
         font-size: 28px;
     }
 
+    .actualities-section{
+        padding: 30px 15px;
+        margin: 15px;
+        border-radius: 25px;
+    }
+
     .actualities-section h2 {
         font-size: 28px;
     }
@@ -761,3 +776,4 @@ html {
         font-size: 12px;
     }
 }
+
